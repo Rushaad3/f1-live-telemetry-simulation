@@ -34,13 +34,27 @@ A standalone Python desktop application that generates synthetic Formula-style v
   - **Telemetry Samples** — recorded telemetry samples and same-distance reference comparisons.
   - **Distance Time Loss** — time delta and change in delta between successive recorded samples.
 
-## Screenshots
 
+## Application Screenshots
 
+### Main Telemetry Dashboard
 
-```md
-![Main dashboard](Screenshots/dashboard.png)
-```
+The live dashboard displays vehicle telemetry, circuit position, lap timing and driver comparison.
+
+![Main Dashboard](screenshots/dashboard.png)
+
+### Lap History and Analysis
+
+Review completed laps, compare performance and inspect telemetry traces across the circuit.
+
+![Lap History](screenshots/lap-history.png)
+
+### Tyre Monitoring
+
+View simulated tyre temperatures, wear and estimated grip across all four tyres.
+
+![Tyre Monitor](screenshots/tyre-monitor.png)
+
 
 ## Requirements
 
