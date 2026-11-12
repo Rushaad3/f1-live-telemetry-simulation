@@ -36,10 +36,10 @@ A standalone Python desktop application that generates synthetic Formula-style v
 
 ## Screenshots
 
-Screenshots are not included in this initial repository. Add your own application screenshots here when ready, for example in a `screenshots/` folder, and embed them with Markdown:
+
 
 ```md
-![Main dashboard](screenshots/dashboard.png)
+![Main dashboard](Screenshots/dashboard.png)
 ```
 
 ## Requirements
