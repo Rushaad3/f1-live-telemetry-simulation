@@ -1,0 +1,11 @@
+Third-party data attribution
+
+This project embeds circuit centre-line data from:
+
+  f1-circuits
+  Author: Tomislav Bacinger
+  Repository: https://github.com/bacinger/f1-circuits
+  Licence: MIT License
+
+The upstream circuit dataset is compressed and embedded in f1_live_telemetry.py.
+The upstream project's licence and attribution apply to that third-party data.
